@@ -5,7 +5,7 @@ This repository contains a Matlab/Octave script to study Bianchi's model for bot
 ## Quickstart
 
 Modify the input parameters for the desired use case at the start of the script before running it:
-```
+``` matlab
 %Change these parameters for the different simulations
 standard = 'ac';                    %ac or n
 frame_aggregation = true;           %true or false
